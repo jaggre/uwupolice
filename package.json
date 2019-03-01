@@ -1,0 +1,24 @@
+{
+  "name": "UWU Police",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uwubot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node uwubot.js"
+  },
+    
+    "engines": {
+    "node": "10.15",
+    "npm": "*"
+  },
+    
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
